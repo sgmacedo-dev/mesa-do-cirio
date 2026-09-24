@@ -1,0 +1,16 @@
+{
+  "name": "A Mesa do Círio",
+  "short_name": "Mesa do Círio",
+  "description": "Comidas e sobremesas premium do Pará por encomenda. Pedidos no WhatsApp.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#3a0c14",
+  "theme_color": "#b1122a",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
